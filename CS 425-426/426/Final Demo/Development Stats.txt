@@ -1,0 +1,47 @@
+Alexandra Pasinski:
+- 1,344 lines of code
+- Created 4 Scenes (MainMenu, Credits, OmegaMath, OmegaMathControls)
+- Scenes Worked On:
+	- MainMenu, Credits, OmegaMath, OmegaMathControls, WizardMathBattle (Duel of the Products)
+- Scripts Worked On:
+	- WordLauncher.cs (296), TitleBouncer.cs (62), SelectionListener.cs (140), 
+	  SceneLoader.cs (58), playAnimation.cs (84), playAnimation2.cs (95), 
+	  OMLivesManager.cs (27), OmGameOver.cs (82), mathQuestionMouse.cs (273),
+	  mathQuestion.cs (83), mathButtonCollision.cs (33), keyCycle.cs (70), CreditScroller.cs (41)
+- Art:	 
+	- Found music for OmegaMath and credits.
+
+Jake Lahr:
+- 673 lines of code
+- Created 2 Scenes (WizardMathBattle, WizardControls)
+- Scenes Worked On:
+	- WizardMathBattle (Duel of the Products), WizardControls
+- Scripts Worked On:
+	- SelectionListener.cs (140), Score.cs (27), SceneLoader.cs (58), playAnimation.cs (84),
+	  playAnimation2.cs (95), mathQuestion.cs (83), keySelection.cs (44), keyCycle.cs (70),
+	  genEquation.cs (72)
+- Art:
+	- Created minigame logos
+	- Created the animations for the wizard beams
+	- Found the wizard sprites, beam sprites, cloud sprites, and ground sprite 
+	- Found Music for Wizard Battle and MainMenu
+	
+Christian Garcia:
+- 334 lines of code
+- Created 1 Scene (MazeRace)
+- Scenes Worked On:
+	- MazeRace (Maze Finder)
+- Scripts Worked On:
+	- SelectionListener.cs (140), Score.cs (27), PlayerController.cs (98), endGame.cs (69)
+- Art:
+	- Created the sprites for the maze walls and ships
+	
+Michael DesRoches:
+- 0 lines of code
+- Created 1 Scene (Cards)
+- Scenes Worked On:
+	- Cards (Matching Battle), MainMenu
+- Scripts Worked On:
+	- None
+- Art:
+	- Designed the cards used in the Matching Battle minigame.
